@@ -1,0 +1,6 @@
+{
+  "name": "CalcMax",
+  "description": "All-in-One Calculator & Unit Converter",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
