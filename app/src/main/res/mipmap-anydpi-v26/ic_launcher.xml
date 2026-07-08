@@ -3,7 +3,4 @@
     <background android:drawable="@mipmap/calcmax_background"/>
     <foreground android:drawable="@mipmap/calcmax_foreground"/>
     <monochrome android:drawable="@mipmap/calcmax_monochrome"/>
-<background android:drawable="@mipmap/calcmax_background"/>
-<foreground android:drawable="@mipmap/calcmax_foreground"/>
-<monochrome android:drawable="@mipmap/calcmax_monochrome"/>
 </adaptive-icon>
