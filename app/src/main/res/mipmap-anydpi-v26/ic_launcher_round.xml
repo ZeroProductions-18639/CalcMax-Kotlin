@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
-    <background android:drawable="@mipmap/CalcMax_background"/>
-    <foreground android:drawable="@mipmap/CalcMax_foreground"/>
-    <monochrome android:drawable="@mipmap/CalcMax_monochrome"/>
+    <background android:drawable="@mipmap/calcmax_background"/>
+    <foreground android:drawable="@mipmap/calcmax_foreground"/>
+    <monochrome android:drawable="@mipmap/calcmax_monochrome"/>
 <?xml version="1.0" encoding="utf-8"?>
 <adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
-    <background android:drawable="@mipmap/CalcMax_background"/>
-    <foreground android:drawable="@mipmap/CalcMax_foreground"/>
-    <monochrome android:drawable="@mipmap/CalcMax_monochrome"/>
+    <background android:drawable="@mipmap/calcmax_background"/>
+    <foreground android:drawable="@mipmap/calcmax_foreground"/>
+    <monochrome android:drawable="@mipmap/calcmax_monochrome"/>
 </adaptive-icon>
